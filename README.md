@@ -102,6 +102,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Codepath_Week5_TwitterClient/twitterDemo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+[DemoGif](https://github.com/XinxinXie/Codepath_Week5_TwitterClient/blob/master/twitterDemo2.gif)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
