@@ -60,7 +60,7 @@ Describe any challenges encountered while building the app.
 
 # Project 5 - Twitter
 
-Time spent: **X** hours spent in total
+Time spent: *10* hours spent in total
 
 ## User Stories
 
@@ -99,8 +99,6 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-<img src='Codepath_Week5_TwitterClient/twitterDemo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [DemoGif](https://github.com/XinxinXie/Codepath_Week5_TwitterClient/blob/master/twitterDemo2.gif)
 
